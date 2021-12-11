@@ -100,6 +100,9 @@ const { email , password}  = req.body;
 })
 
 
+// this is fetching the data
+
+
 
 app.get("/getallusers", async (req, res)=>{
 
